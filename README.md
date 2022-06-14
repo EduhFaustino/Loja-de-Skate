@@ -1,3 +1,6 @@
+Olá
+(!(Anurag's GitHub stats)(http://github-readme-stats.vercel.app/api?username-EduhFaustino)(http://github.com/anuraghazra/github-readme-stats)
+
 # Loja-de-Skate
 Estudo com HTML e CSS com FLEX-BOX e GRID
 
